@@ -1,0 +1,25 @@
+*{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+body{
+background-color:red;
+}
+#wrapper
+{
+	background-image:url("img/bg.jpg");
+	background-size:cover;
+	width:100%;
+	height:750px;
+	padding-left:30%;
+	padding-top:10%;
+}
+
+.login_window
+{
+	width:700px;
+	height:600px;
+	background-color:#FFFFFF;
+	border-radius:10px;
+}
